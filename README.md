@@ -1,7 +1,7 @@
 # Quiz-Grades
 This program generates and records student quiz grades, calculates their average scores, and writes the results to an output file. It also reads this data from the file and computes the average score for each student.
 
-Prerequisites
+#Prerequisites
 
 To run this program, you need:
 
